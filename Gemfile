@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-
-
+# Pour qu un usager puisse creer un usager
+gem 'devise_invitable'
 #is about flash messages
 gem 'toastr-rails'
 # Devise gem 
